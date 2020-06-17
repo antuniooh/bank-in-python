@@ -1,8 +1,0 @@
-Carlos 
-30417222831 
-Comum 
-508.5
-carlos 
-
-Data: 2019-4-7-23-55-47  -  50.00  Tarifa: 1.50  Saldo 448.50 
-Data: 2019-4-7-23-59-33  +  60.00  Tarifa: 0.00 Saldo 508.50 

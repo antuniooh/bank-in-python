@@ -1,9 +1,0 @@
-Antonio 
-50333430840 
-Salário 
-1500.0
-antonio 
- 
-Data: 2019-4-7-23-54-35  -  1000.00  Tarifa: 50.00  Saldo 450.00
-Data: 2019-4-7-23-59-24  +  1000.00  Tarifa: 0.00 Saldo 1450.00 
-Data: 2019-4-8-0-2-27  +  50.00  Tarifa: 0.00 Saldo 1500.00 
