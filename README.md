@@ -26,15 +26,27 @@ Permite um saldo negativo de até (R$ 500,00)
 Plus: cobra taxa de 1% a cada débito realizado
 Permite um saldo negativo de até (R$ 5.000,00)
 
+![image](images/newUser.png)
+
 **Opção 2** - A partir do CPF e da senha do cliente é possivel remover a conta bancária do mesmo. 
+
+![image](images/delete.png)
 
 **Opção 3** - A partir do CPF e da senha é possivel debitar um valor da conta bancária, entretanto só é executado caso o valor seja condizente com o disponível e com o tipo de conta, pois cada uma possui um certo limite de crédito predefinido.
 
+![image](images/debito.png)
+
 **Opção 4** - A partir do CPF e da senha é possivel depositar um valor da conta bancária.
+
+![image](images/deposito.png)
 
 **Opção 5** - A partir do CPF e da senha é possivel visualizar o saldo atual da conta bancária.
 
+![image](images/saldo.png)
+
 **Opção 6** - A partir do CPF e da senha é possivel visualizar todas os dados referentes às movimentações da conta bancária.
+
+![image](images/extrato.png)
 
 ## Execução
 
