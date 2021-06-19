@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/bank-in-python">
-    <img src="https://cdn0.iconfinder.com/data/icons/thin-analytics/57/thin-360_hierarchy_diagram_structure-512.png" alt="Logo" width="550">
+    <img src="https://i.pinimg.com/originals/b9/c6/2b/b9c62b76602925ded4127ff0df2892c9.png" alt="Logo" width="550">
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 ## 💻 About The Project
 The project consists of software that simulates a bank, performing customer registrations and transactions.
 
-![app](https://github.com/antuniooh/bank-in-python/blob/master/images/example.png)
+![app](https://github.com/antuniooh/bank-in-python/blob/master/images/app.gif)
 
 The program reads the user-selected text file that contains an adjacency matrix of the graph.
 
